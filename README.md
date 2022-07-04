@@ -7,9 +7,9 @@ Repositorio con ejercicios prácticos realizados en Kotlin, conceptos teoricos s
 ![imagen](./img/kotlin.png)
 
 ## Temas:
-### 1. Kotlin - Introducción
-### 2. Fundamentos del Lenguaje
-### 3. Definción de Funciones
+### [1. Kotlin - Introducción](./Temas-1-2-3/readme.md)
+### [2. Fundamentos del Lenguaje](./Temas-1-2-3/readme.md)
+### [3. Definción de Funciones](./Temas-1-2-3/readme.md)
 ### 4. Trabajando con Clases y Objetos
 ### 5. Uso de Funciones Avanzadas y Programación Funcional
 ### 6. Uso de Clase de Casos Especiales
