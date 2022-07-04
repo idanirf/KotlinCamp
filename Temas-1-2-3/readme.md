@@ -53,4 +53,81 @@ Kotlin elimina el código repetitivo, lo que elimina en gran medida los posibles
 <br>
 * `val num: Int? = null`
 
+**4. Casting en Kotlin**
+<br>
+* `val num3: Float = num2 **to**`
+
+**5. String Templetes**
+
+`val nombre = "Daniel"`
+
+`val edad: Int = 20`
+
+`println("$nombre $edad)`
+
+**6. Rangos**
+* Rangos entre 1 y 100 
+* Saber sí algo existe en un rango
+* Sí se encuentra una letra
+
+**7. Arrays**
+
+`var array = Array(10){7}`
+
+`var array1 = Array<Int?>(10)`
+
+`var matrix Array(10){IntArray(10)}`
+
+`println(array1[4])`
+
+`println(matrix[1][2])`
+
+**8. Control de Flujo**
+* Condicionales
+
+<br>
+
+    val num = 2
+    if (num % 2 == 0) {
+        println("Par")
+    } else {
+        println("Impar")
+    }
+
+
+* When
+
+<br>
+
+    val salida2 = when {
+        num % 2 == 0 -> "Es par"
+        num <0 -> "Es negativo"
+        num is Int -> "Es entero"
+        num !in 0 <= .. <=1 -> "No es 0 o 1"
+        else -> "Es otro tipo de dato"
+    }
+
+* While
+
+<br>
+
+    val valor = 0 
+        while(dato < 10){
+            dato +=1
+        }
+
+* Do While
+
+<br>
+
+    val valor = 10 
+        do {
+            println(dato)
+            dato-=1
+        } while(dato>0)
+
+
+
+
+
 ## Tema 3: Definción de Funciones
