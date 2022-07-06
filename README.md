@@ -1,5 +1,6 @@
 # KotlinCamp
 Repositorio con ejercicios prácticos realizados en Kotlin, conceptos teoricos sobre Kotlin ...
+<br>
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
 ![GitHub](https://img.shields.io/github/last-commit/idanirf/KotlinCamp)
@@ -10,7 +11,7 @@ Repositorio con ejercicios prácticos realizados en Kotlin, conceptos teoricos s
 ### [1. Kotlin - Introducción](./Temas-1-2-3/readme.md)
 ### [2. Fundamentos del Lenguaje](./Temas-1-2-3/readme.md)
 ### [3. Definción de Funciones](./Temas-1-2-3/readme.md)
-### 4. Trabajando con Clases y Objetos
+### [4. Trabajando con Clases y Objetos](./Tema-4/readme.md)
 ### 5. Uso de Funciones Avanzadas y Programación Funcional
 ### 6. Uso de Clase de Casos Especiales
 ### 7. Explornando Colecciones
@@ -19,6 +20,10 @@ Repositorio con ejercicios prácticos realizados en Kotlin, conceptos teoricos s
 ### 10. Interoperabilidad de Java
 ### 11. Testing en Kotlin
 <br>
+
+## Recomendaciones
+Una parte del contenido de este repositorio es idea de [José Luis González](http://github.com/joseluisgs), ha sido adaptado y modificado la mayor parte.
+Recomiendo que también eches un vistazo [Kotlin-BootCamp-Damnificad@s](https://github.com/joseluisgs/Kotlin-Bootcamp-DAMnificados)
 
 
 ## Contacto
