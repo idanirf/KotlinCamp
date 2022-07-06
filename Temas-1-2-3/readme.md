@@ -126,8 +126,49 @@ Kotlin elimina el código repetitivo, lo que elimina en gran medida los posibles
             dato-=1
         } while(dato>0)
 
+* For
 
+<br>
 
+    for(i in 1 <=..<=10){
+        println(i)
+    }
+
+    De 0 hasta 10
+    for(i in 0<= until <10){
+        println(i)
+    }
+
+    Increment 0
+    for(i un o <= until <10 step 2){
+        println(i)
+    }
+
+    Other:
+    for(i in 10 >= downTo >= 1 step 2){
+        println(i)
+    }
+    
+* For Each
+
+<br>
+
+    val enteros = InitArray(10)
+    for(i in enteros){
+        println(i)
+    }
+
+    for (i in enteros.indices){
+        enteros[i] = enteros[i] * 2
+        println(enteros[i])
+    }
 
 
 ## Tema 3: Definción de Funciones
+`val valor = miFunctionA()`
+`println(valor)`
+
+`fun miFuncion(): Int {`
+    `return 1`
+`}`
+
