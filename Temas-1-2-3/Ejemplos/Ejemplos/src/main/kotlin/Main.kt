@@ -35,4 +35,45 @@ fun main(args: Array<String>) {
     val cadena1: String = "Hola"
     val cadena2: String = "Mundo"
     println("\n")
+    println("Arrays: Array")
+    val array1: Array<Int> = arrayOf(1, 2, 3, 4, 5)
+    println(array1.size)
+    val array2 = Array<Int>(10) { 0 }
+    println(array2.size)
+    val matrix = Array(10) { IntArray(10) }
+    println(matrix[1][1])
+    println("\n")
+    println("Casting de datos")
+    var numero7: Float = numero1.toFloat()
+    println("String Templetes")
+    val nombre2 = "Ivan"
+    val apellido = "Ivanirf"
+    println("Hola $nombre2 $apellido")
+    println("\n")
+
+    println("TEMA 3 - FUNCIONES")
+    println("\n")
+    println("Función sin parámetros")
+    fun saludar() {
+        println("Hola Mundo")
+    }
+    saludar()
+    println("\n")
+    println("Función con parámetros")
+    fun saludar2(nombre: String) {
+        println("Hola $nombre")
+    }
+    saludar2("Ivan")
+    println("\n")
+    println("Función con retorno")
+    fun sumar(numero1: Int, numero2: Int): Int {
+        return numero1 + numero2
+    }
+    println(sumar(10, 20))
+    println("\n")
+    println("Función con retorno y parámetros")
+    fun sumar2(numero1: Int, numero2: Int): Int {
+        return numero1 + numero2
+    }
+
 }

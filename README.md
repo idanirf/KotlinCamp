@@ -23,7 +23,7 @@ Repositorio con ejercicios prácticos realizados en Kotlin, conceptos teoricos s
 
 ## Recomendaciones
 Una parte del contenido de este repositorio es idea de [José Luis González](http://github.com/joseluisgs), ha sido adaptado y modificado la mayor parte.
-Recomiendo que también eches un vistazo [Kotlin-BootCamp-Damnificad@s](https://github.com/joseluisgs/Kotlin-Bootcamp-DAMnificados)
+Recomiendo que también eches un vistazo [Kotlin-BootCamp-Damnificad@s](https://github.com/joseluisgs/Kotlin-Bootcamp-DAMnificados).
 
 
 ## Contacto
