@@ -1,10 +1,10 @@
 open class Alumno(
     var name: String? = "Daniel",
     var apellidos: String? = "Rodriguez",
-    var edad: Int? = 0,
-    var curso: String? = ""
+    var edad: Int? = 19,
+    var curso: String? = "2DAM"
 ) {
-    fun getNombreCompleto(): String {
-        return "$name $apellidos"
+    fun toPrint(): String {
+        return "$name $apellidos $edad $curso"
     }
 }
