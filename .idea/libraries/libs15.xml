@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="libs15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-common-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-engine-5.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-1.6.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-api-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-engine-1.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/apiguardian-api-1.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-commons-1.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-engine-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/annotations-13.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-engine-1.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-engine-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-api-5.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-junit5-1.6.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-commons-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-1.6.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-junit5-1.6.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/annotations-13.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-common-1.6.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-api-5.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-junit5-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-platform-commons-1.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/opentest4j-1.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/opentest4j-1.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/junit-jupiter-engine-5.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-test-1.6.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/apiguardian-api-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-common-1.6.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Temas-1-2-3/Ejercicios/unidad2Relacion2Ejercicio27/libs/kotlin-stdlib-1.6.10-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
